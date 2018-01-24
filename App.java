@@ -11,5 +11,6 @@ public class App {
         System.out.println(n);
         System.out.println(n.getIp4Class());
         System.out.println(n.getNetwork());
+        // Ho aggiunto un commento
     }
 }
